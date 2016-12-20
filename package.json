@@ -1,0 +1,17 @@
+{
+  "name": "landing-page",
+  "title": "Landing Page",
+  "author": "Cosmic JS",
+  "license": {
+    "type": "MIT"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cosmicjs": "^2.35.0",
+    "express": "^4.14.0",
+    "hogan-express": "^0.5.2",
+    "simple-line-icons": "^2.3.2"
+  }
+}
