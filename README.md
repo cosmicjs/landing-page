@@ -17,7 +17,7 @@ COSMIC_BUCKET=your-bucket-slug yarn start
 ```
 Open [http://localhost:3000](http://localhost:3000).
 
-###Next.js + React + Cosmic JS
+###Manage Content
 You can easily manage all of the content on this Landing Page on Cosmic JS.  Follow these steps:
 
 1. [Log in to Cosmic JS](https://cosmicjs.com).
